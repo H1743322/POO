@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Defesa
+comment1.params=nomeJ\ numeroJ\ vel\ res\ des\ imp\ cab\ rem\ p\ c\ his
+comment1.target=Defesa(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ java.util.ArrayList)
+comment10.params=obj
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=input
+comment2.target=Defesa\ parse(java.lang.String)
+comment3.params=d
+comment3.target=Defesa(Defesa)
+comment4.params=
+comment4.target=int\ getCortes()
+comment5.params=c
+comment5.target=void\ getCortes(int)
+comment6.params=
+comment6.target=java.lang.String\ extraCaracteristicas()
+comment7.params=
+comment7.target=double\ calcularMedia()
+comment8.params=
+comment8.target=java.lang.String\ getPosicao()
+comment9.params=
+comment9.target=Defesa\ clone()
+numComments=11

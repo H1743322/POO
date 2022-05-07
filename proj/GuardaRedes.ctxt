@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GuardaRedes
+comment1.params=nomeJ\ numeroJ\ vel\ res\ des\ imp\ cab\ rem\ p\ elast\ his
+comment1.target=GuardaRedes(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ java.util.ArrayList)
+comment10.params=obj
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=input
+comment2.target=GuardaRedes\ parse(java.lang.String)
+comment3.params=g
+comment3.target=GuardaRedes(GuardaRedes)
+comment4.params=
+comment4.target=int\ getElasticidade()
+comment5.params=e
+comment5.target=void\ getElasticidade(int)
+comment6.params=
+comment6.target=double\ calcularMedia()
+comment7.params=
+comment7.target=GuardaRedes\ clone()
+comment8.params=
+comment8.target=java.lang.String\ getPosicao()
+comment9.params=
+comment9.target=java.lang.String\ extraCaracteristicas()
+numComments=11

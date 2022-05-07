@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Avancado
+comment1.params=nomeJ\ numeroJ\ vel\ res\ des\ imp\ cab\ rem\ p\ fin\ his
+comment1.target=Avancado(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ java.util.ArrayList)
+comment10.params=obj
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=input
+comment2.target=Avancado\ parse(java.lang.String)
+comment3.params=a
+comment3.target=Avancado(Avancado)
+comment4.params=
+comment4.target=int\ getFinalizacao()
+comment5.params=fin
+comment5.target=void\ getFinalizacao(int)
+comment6.params=
+comment6.target=double\ calcularMedia()
+comment7.params=
+comment7.target=java.lang.String\ getPosicao()
+comment8.params=
+comment8.target=java.lang.String\ extraCaracteristicas()
+comment9.params=
+comment9.target=Avancado\ clone()
+numComments=11

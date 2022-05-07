@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=
+comment1.target=void\ run()
+comment2.params=l\ cria\ jogo
+comment2.target=void\ save(Liga,\ Equipa,\ Jogo)
+comment3.params=l\ cria\ jogo
+comment3.target=void\ load(Liga,\ Equipa,\ Jogo)
+comment4.params=l\ cria
+comment4.target=void\ menuCriar(Liga,\ Equipa)
+comment5.params=l
+comment5.target=void\ menuVer(Liga)
+comment6.params=l
+comment6.target=void\ menuFicheiro(Liga)
+comment7.params=l
+comment7.target=void\ menuEditar(Liga)
+numComments=8
