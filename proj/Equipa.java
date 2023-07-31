@@ -131,6 +131,7 @@ public class Equipa implements Serializable {
         // throw new JogadorNaoExisteException("Jogador nao existe");
         // else
         return ola;
+
     }
 
     public String toString() {
@@ -186,4 +187,5 @@ public class Equipa implements Serializable {
         this.media = e.media;
 
     }
+
 }
